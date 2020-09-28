@@ -1,8 +1,8 @@
-/*FONTS*/
+// -----------------------------/*FONTS*/-----------------------------
 
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900&display=swap");
 
-/*MAIN*/
+// -----------------------------/*MAIN*/-----------------------------
 
 *,
 *::before,
@@ -17,6 +17,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   color: #fff;
+  background: #02061f;
 }
 ul {
   list-style: none;
